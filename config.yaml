@@ -1,4 +1,4 @@
-baseURL: https://www.imoveisdacaixa.com.br
+baseURL: https://landpagepaulo.netlify.app
 languageCode: pt-br
 paginate: 6
 theme: portio-hugo
