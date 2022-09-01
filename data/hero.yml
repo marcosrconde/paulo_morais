@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Olá, I Eu sou Paulo Morais
+content: >
+  # Corretor credenciado pela Caixa Econômica Federal
+
+  Vou te ajudar a encontrar oportunidades nos imóveis de leilão da Caixa com descontos incríveis
+buttonName: Acessar catálogo de imóveis
+buttonURL: https://imoveisdacaixa.appgyverapp.com
+image: https://media-exp1.licdn.com/dms/image/C4E03AQHoQDafPdZuOw/profile-displayphoto-shrink_800_800/0/1559744021357?e=1667433600&v=beta&t=98cIRf-VJQ7dasaQpOYVtkTZ7TESDNHVEMj0BbVI76k
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

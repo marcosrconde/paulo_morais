@@ -1,0 +1,36 @@
+---
+enable: true
+topTitle: Passo a passo
+title: >
+  ## Como comprar?
+
+  É bem simples!
+service:
+  - content: >
+      #### Escolha o imóvel
+
+      Acesse nosso catálogo e escolha o imóvel que mais lhe interessa.
+    image: images/service/search.png
+  - content: >
+      #### Entre em contato
+
+      Entre em contato comigo para que eu avalie o imóvel desejado e lhe passe as instruções para a compra.
+      Você não vai ter que fazer nenhum pagamento direto para mim. O Negócio é realizado diretamente no site da Caixa.
+      Tudo muito seguro!
+    image: images/service/whatsapp.png
+  - content: >
+      #### Faça a proposta
+
+      Você fará a proposta direto no site da caixa com as instruções que eu vou lhe passar. Vou te ajudar com a proposta e com a documentação necessária.
+    image: images/service/proposta.png
+  - content: >
+      #### Feche o negócio
+
+      Caso sua proposta seja aprovada, vou te ajudar a concluí-la sem maiores dores de cabeça.
+    image: images/service/negocio.png
+  - content: >
+      #### Pós-compra
+
+      Vou te ajudar nos passos seguintes à compra do imóvel, tais como os tramites cartoriais e desocupação do imóvel.
+    image: images/service/poscompra.png
+
