@@ -14,23 +14,23 @@ service:
   - content: >
       #### Entre em contato
 
-      Entre em contato comigo para que eu avalie o imóvel desejado e lhe passe as instruções para a compra.
-      Você não vai ter que fazer nenhum pagamento direto para mim. O Negócio é realizado diretamente no site da Caixa.
+      Entre em contato conosco para que avaliemos o imóvel desejado e possamos lhe passar as instruções para a compra.
+      Você não fará nenhum pagamento antecipado direto para a imobiliária. O Negócio é realizado diretamente no site da Caixa.
       Tudo muito seguro!
     image: images/service/whatsapp.png
   - content: >
       #### Faça a proposta
 
-      Você fará a proposta direto no site da caixa com as instruções que eu vou lhe passar. Vou te ajudar com a proposta e com a documentação necessária.
+      Você fará a proposta direto no site da caixa com as instruções que eu vamos lhe passar. Vamos te ajudar com a proposta e com a documentação necessária.
     image: images/service/proposta.png
   - content: >
       #### Feche o negócio
 
-      Caso sua proposta seja aprovada, vou te ajudar a concluí-la sem maiores dores de cabeça.
+      Caso sua proposta seja aprovada, vamos te ajudar a concluí-la sem qualquer dor de cabeça.
     image: images/service/negocio.png
   - content: >
       #### Pós-compra
 
-      Vou te ajudar nos passos seguintes à compra do imóvel, tais como os tramites cartoriais e desocupação do imóvel.
+      Te ajudamos nos passos seguintes à compra do imóvel, tais como os tramites cartoriais e desocupação do imóvel.
     image: images/service/poscompra.png
 
