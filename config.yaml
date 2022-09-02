@@ -62,13 +62,13 @@ params:
     pinImage: images/pin.png
   social:
     - icon: fa-facebook-official
-      url: https://www.facebook.com/
+      url: https://www.facebook.com/paulomoraisimoveis/
       weight: 1
     - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+      url: https://www.linkedin.com/in/paulo-morais-a031a4120/
       weight: 2
     - icon: fa-instagram
-      url: https://www.instagram.com/
+      url: https://www.instagram.com/paulomoraisimoveis/
       weight: 3
     # - icon: fa-twitter-square
     #   url: https://twitter.com/
