@@ -17,5 +17,5 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 HUGO_ENV = 'production'
 
 [[redirects]]
-from = "/app"
-to = "https://imoveisdacaixa.appgyverapp.com"
+from = "/catalogo"
+to = "https://imoveisdacaixa.netlify.app

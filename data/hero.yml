@@ -6,7 +6,7 @@ content: >
 
   Imobiliária **CREDENCIADA** da **CAIXA** no Estado da **PARAÍBA**, para venda de imóveis adjudicados.
 buttonName: VER CATÁLOGO DE IMÓVEIS
-buttonURL: /app
+buttonURL: /catalogo
 image: images/hero/Casa.png
 # videoThumb: images/hero/popup-thumb.png
 # videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

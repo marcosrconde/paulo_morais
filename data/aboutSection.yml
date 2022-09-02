@@ -23,6 +23,6 @@ content: >
 
 button1Name: ver catálogo
 button2Name: corretores credenciados
-button1Target: https://imoveisdacaixa.appgyverapp.com
+button1Target: /catalogo
 button2Target: https://venda-imoveis.caixa.gov.br/sistema/lista-corretores.asp?QS_NuImovel=8555517243981
 image: images/about/Fundo.jpg
