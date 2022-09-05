@@ -21,7 +21,7 @@ service:
   - content: >
       #### Faça a proposta
 
-      Você fará a proposta direto no site da caixa com as instruções que eu vamos lhe passar. Vamos te ajudar com a proposta e com a documentação necessária.
+      Você fará a proposta diretamente no site da caixa com as instruções que iremos lhe passar. Vamos te ajudar com a proposta e com a documentação necessária.
     image: images/service/proposta.png
   - content: >
       #### Feche o negócio
@@ -31,6 +31,6 @@ service:
   - content: >
       #### Pós-compra
 
-      Te ajudamos nos passos seguintes à compra do imóvel, tais como os tramites cartoriais e desocupação do imóvel.
+      Te ajudamos nos passos seguintes à compra do imóvel, tais como os tramites cartoriais.
     image: images/service/poscompra.png
 
