@@ -2,7 +2,7 @@ baseURL: https://landpagepaulo.netlify.app
 languageCode: pt-br
 paginate: 6
 theme: portio-hugo
-title: Imóveis Caixa | PB
+title: Imóveis Caixa na Paraíba
 menu:
   # main:
     # - name: Home
