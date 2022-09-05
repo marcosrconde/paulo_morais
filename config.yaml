@@ -43,6 +43,7 @@ menu:
   #     url: '#'
   #     weight: 4
 params:
+  description: Assessoria gratuita para venda de imóveis ajdudicados da CAIXA. Lista completa de imóveis com descontos imperdíveis. Imobiliária credenciada da CAIXA na Paraíba.
   address:
     address: Rua Vidal de Negreiros, 98 - Patos | PB
     email: contato@paulomorais.com
