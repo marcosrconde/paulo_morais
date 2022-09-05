@@ -18,4 +18,4 @@ HUGO_ENV = 'production'
 
 [[redirects]]
 from = "/catalogo"
-to = "https://imoveisdacaixa.netlify.app"
+to = "https://catalogo.imoveisdacaixa.com"
